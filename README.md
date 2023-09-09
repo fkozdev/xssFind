@@ -5,10 +5,7 @@ XSS Finder built using Python.
 
 **Language:** Python
 
-**Modules:** Colorama, Requests
-
-![XSSFind in Action](GIF_URL)  <!-- Replace with the actual GIF URL -->
-  
+**Modules:** Colorama, Requests  
 ## Run on Your Computer
 
 Clone the project
