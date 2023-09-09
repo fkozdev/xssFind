@@ -14,7 +14,7 @@ Python Kullanılarak yapılmış XSS Finder.
 Projeyi klonlayın
 
 ```bash
-  git clone https://github.com/fuekisecurity/XSSFind
+  git clone https://github.com/furkzsec/XSSFind
 ```
 
 Proje dizinine gidin
@@ -32,5 +32,5 @@ Kodu çalıştırın
   
 ## Geri Bildirim
 
-Herhangi bir geri bildiriminiz varsa, lütfen fuekisecurity Instagram adresinden bize ulaşın.
+Herhangi bir geri bildiriminiz varsa, lütfen furkzsec Instagram adresinden bize ulaşın.
   
